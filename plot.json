@@ -1271,5 +1271,7 @@
  "geom2_tile_plot" 
 ] 
 } 
-} 
+},
+  "title":"Classifying Covid19 chest X-ray images",
+  "source":"https://github.com/TyBruceChen/Research-A-Fined-Tuned-ViT-for-COVID-19-Image-Auxiliary-Diagnosing"
 }
